@@ -1,0 +1,5 @@
+
+========== main.c ==========
+main.c:13: WARNING: Block comments use a trailing */ on a separate line
+main.c:19: WARNING: Statements should start on a tabstop
+total: 0 errors, 2 warnings, 21 lines checked
