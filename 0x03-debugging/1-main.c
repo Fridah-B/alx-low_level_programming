@@ -4,7 +4,6 @@
  *
  * Return: 0
  */
-
 int main(void)
 {
 	int i;
@@ -17,6 +16,7 @@ int main(void)
 	 * {
 	 * putchar(i);
 	 * }
+	 * Infinite loop - terminado
 	 */
 	printf("Infinite loop avoided!\\o/\n");
 
