@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * puts2 - prints even numbers
- * @str - string to be printed
+ * @str: string to be printed
  * Return: Always 0
  */
 void puts2(char *str)
