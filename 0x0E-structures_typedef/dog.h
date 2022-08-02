@@ -1,3 +1,11 @@
+#ifndef DOWG
+#define DOWG
+/**
+ * struct dog - structure
+ * @name: name of dog
+ * @age: number
+ * @owner: string
+ */
 struct dog
 {
 	char *name;
@@ -6,3 +14,4 @@ struct dog
 };
 
 typedef struct dog G_dog;
+#endif
